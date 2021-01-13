@@ -1,1 +1,1 @@
-# projiect-one
+# project-one
